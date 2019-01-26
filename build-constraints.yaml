@@ -2080,6 +2080,7 @@ packages:
         - transformers-lift
         - union
         - named
+        - num-non-negative
 
     "Stack Builders stackage@stackbuilders.com @stackbuilders":
         - atomic-write
